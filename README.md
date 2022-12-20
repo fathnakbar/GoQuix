@@ -1,2 +1,2 @@
 # GoQuix
-Headless CMS for quick development
+Golang based Headless CMS for quick development
